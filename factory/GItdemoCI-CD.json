@@ -1,0 +1,9 @@
+{
+	"name": "GItdemoCI-CD",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3615fb30-6502-4156-87fe-941acbd4abc0",
+		"tenantId": "e4e34038-ea1f-4882-b6e8-ccd776459ca0"
+	}
+}
